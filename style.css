@@ -1,0 +1,39 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.container {
+    background-color: aqua;
+    padding: 3rem;
+    display:flex;
+    justify-content: space-between;
+    font-size:20px;
+}
+
+.Logo {
+    background-color: rgb(250, 67, 67);
+    
+    
+}
+
+.tab {
+    background-color: aliceblue;
+
+    
+}
+
+ul{
+background-color: rgb(255, 150, 22);
+display:flex;
+width: 300px;
+justify-content: space-between;
+}
+
+li{
+    list-style-type:none;
+}
+.Contact{
+ background-color: rgb(248, 186, 0)
+}
+;
